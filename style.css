@@ -23,9 +23,6 @@ body {
     flex-direction: column;
 }
 
-
-/* TOP */
-
 .top {
     width: 100%;
     display: flex;
@@ -34,9 +31,6 @@ body {
 
     padding: 30px 5%;
 }
-
-
-/* PROGRESS */
 
 .progress {
     width: 350px;
@@ -66,9 +60,6 @@ body {
     border-radius: 10px;
 }
 
-
-/* CONTENT */
-
 main {
     width: 90%;
     max-width: 900px;
@@ -90,9 +81,6 @@ h1 {
     margin-top: 20px;
 }
 
-
-/* BUTTON BACA */
-
 .read {
     margin-top: 25px;
 
@@ -109,9 +97,6 @@ h1 {
 
     cursor: pointer;
 }
-
-
-/* TOOLS */
 
 .tools {
     margin-top: 20px;
@@ -132,9 +117,6 @@ h1 {
 
     font-size: 18px;
 }
-
-
-/* NAVBAR */
 
 nav {
     display: flex;
@@ -160,9 +142,6 @@ nav a {
     font-size: 19px;
 }
 
-
-/* TABLET */
-
 @media (max-width: 900px) {
 
     .top {
@@ -177,9 +156,6 @@ nav a {
         max-width: 700px;
     }
 }
-
-
-/* HP */
 
 @media (max-width: 600px) {
 
