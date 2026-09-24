@@ -36,12 +36,17 @@ tugas1slicing/
 
 ## Screenshot
 
-Screenshot hasil website dapat dilihat pada bagian berikut:
+**Desktop**
 
---Screenshot Website--
-(assets/tampilan dekstop.png)
-(assets/tampilan ipad.png)
-(assets/tampilan hp.png)
+![Desktop](assets/tampilan%20desktop.png)
+
+**Tablet / iPad**
+
+![iPad](assets/tampilin%20ipad.png)
+
+**Mobile / HP**
+
+![HP](assets/tampilan%20hp.png)
 
 ## Pembuat
 
