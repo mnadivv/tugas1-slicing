@@ -38,7 +38,7 @@ tugas1slicing/
 
 **Desktop**
 
-![Desktop](assets/tampilan%20desktop.png)
+![Desktop](assets/tampilan%20dekstop.png)
 
 **Tablet / iPad**
 
